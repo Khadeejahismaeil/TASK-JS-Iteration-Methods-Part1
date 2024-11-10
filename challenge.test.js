@@ -10,7 +10,7 @@ const {
 * Remove the "x" from "xdescribe" 👇🏼 
 * to run the challenge tests 
 */
-xdescribe("Extra Array and String Functions", () => {
+describe("Extra Array and String Functions", () => {
   describe("logger Function", () => {
     it("logs every element of the array to the console", () => {
       const testArray = ["apple", "banana", "cherry"];
